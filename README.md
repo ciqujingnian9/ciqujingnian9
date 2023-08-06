@@ -8,7 +8,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <img src="https://image.cqjn.cc/uploads/2023/08/06/64cf5336e59c5.gif" /><br>
 
   </div>
 
@@ -23,7 +23,7 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://image.cqjn.cc/uploads/2023/08/06/64cf53359d1d7.gif" />
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
