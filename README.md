@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://www.cqjn.cc/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);CQJN祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
@@ -37,10 +37,5 @@
 
 
 <!--  skill badge 技能徽章 -->
-常用
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
